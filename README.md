@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**TechRiddhipratim/techriddhipratim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech Riddhipratim
 
-Here are some ideas to get you started:
+Hi, I am Tech Riddhipratim, an app, game and software developer,
+YouTuber and a blogger. This is my official GitHub account and I 
+upload code files. So please do share.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Important Links
+
+[Appy Community](https://www.appycommunity.net/)
+
+[YouTube](https://www.youtube.com/channel/UCArqSb_FchwDy2BzBUBrsMQ)
+
+[Twitter](https://twitter.com/IRiddhipratim)
+
+[Google Play Store](https://play.google.com/store/apps/dev?id=6801241447418519020)
+
+
+  
+## Feedback
+
+If you have any feedback, please reach out to me at techriddhipratim@appycommunity.net
+
+  
+![Logo](https://static.wixstatic.com/media/39fa4d_e71cc0cf5edc4eaa8044634c40222ef3~mv2.png/v1/fit/w_2500,h_1330,al_c/39fa4d_e71cc0cf5edc4eaa8044634c40222ef3~mv2.png)
+
+    
