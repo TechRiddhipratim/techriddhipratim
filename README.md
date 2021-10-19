@@ -8,8 +8,6 @@ upload code files. So please do share.
 
 ## Important Links
 
-[Appy Community](https://www.appycommunity.net/)
-
 [YouTube](https://www.youtube.com/channel/UCArqSb_FchwDy2BzBUBrsMQ)
 
 [Twitter](https://twitter.com/IRiddhipratim)
